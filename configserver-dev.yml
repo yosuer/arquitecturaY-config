@@ -1,6 +1,0 @@
-server:
-  port: 9003
-
-com:
-    yosuer:
-        valor: 'unvalor'
