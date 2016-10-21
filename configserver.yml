@@ -1,5 +1,2 @@
----
-spring:
-  profiles: cloud
 server:
   port: 9002
